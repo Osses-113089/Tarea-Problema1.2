@@ -1,0 +1,11 @@
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.AssemblyReference.cache
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.cache
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\obj\Debug\Facturacion.Presentacion.FrmFacturacion.resources
+C:\Users\ihoss\OneDrive\Escritorio\Programacion 2\Facturacion\Facturacion\obj\Debug\Facturacion.FrmPrincipal.resources
